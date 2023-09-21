@@ -1,4 +1,4 @@
-<div style="text-align: center; padding: 15px; border-radius: 20px; background-color: blac;">
+<div style="text-align: center; padding: 15px; border-radius: 20px; background-color: black; width: 100%">
   <h3>Hi there 👋</h3>
   <p>
     I am Osama Mohammed. Full stack developer
