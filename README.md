@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<div style="text-align: center; padding: 15px; border-radius: 20px; background-color: blac;">
+  <h3>Hi there 👋</h3>
+  <p>
+    I am Osama Mohammed. Full stack developer
+  </p>
+</div>
 <!--
 **osama-mhmd/osama-mhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
