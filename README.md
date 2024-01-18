@@ -8,5 +8,5 @@
 I am working maily with (next.js)
 
 - 🔭 I’m currently working on
--   Dodev - Task managing tool
--   Os-mhmd - my profile
+-   Resumes - Hosting tool to host your resume online
+-   Hadith - Random hadith every refresh
