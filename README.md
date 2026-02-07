@@ -56,6 +56,4 @@ I'm a passionate full-stack developer who loves crafting elegant solutions to co
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://osama-mhmd.vercel.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osama-mhmd)
 
-<!--[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)-->
-
 </div>
